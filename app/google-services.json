@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221857274028",
+    "firebase_url": "https://programmer-quotes.firebaseio.com",
+    "project_id": "programmer-quotes",
+    "storage_bucket": "programmer-quotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221857274028:android:195ef72df7e428b1",
+        "android_client_info": {
+          "package_name": "com.quotes.programmer.programmerquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221857274028-1213gncf6d3l0b84ai4pvgegr1fqo75s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quotes.programmer.programmerquotes",
+            "certificate_hash": "c3c691db39553bc2830f29ff0fd15cf5b22097a5"
+          }
+        },
+        {
+          "client_id": "221857274028-e3l2jr3o6gv8mc5gp9i2is9388ap47sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFddjveTLZ2nu5pVKlCPqaHRFqybwlMZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221857274028-e3l2jr3o6gv8mc5gp9i2is9388ap47sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

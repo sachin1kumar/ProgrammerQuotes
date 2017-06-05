@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Programmer Quotes</string>
+    <string name="quote">Sorry, no quote for today.</string>
+</resources>
